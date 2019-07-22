@@ -7,4 +7,4 @@ https://www.poputar.com/en/poputar/
 
 Код приложения был взят из старой версии : https://4pda.ru/forum/index.php?showtopic=947642
 
-Версия взятая из 4pda для Android работает.
+Версия из 4pda для Android работает.
