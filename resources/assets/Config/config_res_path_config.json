@@ -1,0 +1,122 @@
+[
+  {
+    "Extenstion": "",
+    "RESID": 1,
+    "HeadAdd": "export_",
+    "Priority": 2,
+    "FileType": 1,
+    "Path": "UIExport/"
+  },
+  {
+    "Extenstion": "json",
+    "RESID": 5,
+    "HeadAdd": "config_",
+    "Priority": 1,
+    "FileType": 2,
+    "Path": "Config/"
+  },
+  {
+    "Extenstion": "json",
+    "RESID": 7,
+    "HeadAdd": "cource_",
+    "Priority": 1,
+    "FileType": 2,
+    "Path": "Config/Cource/"
+  },
+  {
+    "Extenstion": "sdata",
+    "RESID": 6,
+    "HeadAdd": "sdata_",
+    "Priority": 1,
+    "FileType": 2,
+    "Path": "Config/Sdata/"
+  },
+  {
+    "Extenstion": "prc",
+    "RESID": 8,
+    "HeadAdd": "lyc_",
+    "Priority": 1,
+    "FileType": 2,
+    "Path": "Config/Lyric/"
+  },
+  {
+    "Extenstion": "png",
+    "RESID": 2,
+    "HeadAdd": "export_",
+    "Priority": 3,
+    "FileType": 3,
+    "Path": "Texture/"
+  },
+  {
+    "Extenstion": "png",
+    "RESID": 13,
+    "HeadAdd": "atlas_",
+    "Priority": 10,
+    "FileType": 3,
+    "Path": "Atlas/"
+  },
+  {
+    "Extenstion": "mp3",
+    "RESID": 3,
+    "HeadAdd": "",
+    "Priority": 4,
+    "FileType": 4,
+    "Path": "Audio/"
+  },
+  {
+    "Extenstion": "mp3",
+    "RESID": 9,
+    "HeadAdd": "",
+    "Priority": 4,
+    "FileType": 4,
+    "Path": "BGM/"
+  },
+  {
+    "Extenstion": "mp3",
+    "RESID": 10,
+    "HeadAdd": "",
+    "Priority": 4,
+    "FileType": 4,
+    "Path": "record/usr_mp3/"
+  },
+  {
+    "Extenstion": "png",
+    "RESID": 11,
+    "HeadAdd": "",
+    "Priority": 4,
+    "FileType": 3,
+    "Path": "cover/"
+  },
+  {
+    "Extenstion": "mp4",
+    "RESID": 4,
+    "HeadAdd": "",
+    "Priority": 5,
+    "FileType": 6,
+    "Path": "Video/"
+  },
+  {
+    "Extenstion": "png",
+    "RESID": 15,
+    "HeadAdd": "",
+    "Priority": 2,
+    "FileType": 3,
+    "Path": "ChordLib/"
+  },
+  {
+    "Extenstion": "json",
+    "RESID": 14,
+    "HeadAdd": "",
+    "Priority": 2,
+    "FileType": 2,
+    "Path": "ChordLib/"
+  },
+  {
+    "Extenstion": "json",
+    "RESID": 16,
+    "HeadAdd": "",
+    "Priority": 2,
+    "FileType": 2,
+    "Path": "Config/finger/"
+  }
+]

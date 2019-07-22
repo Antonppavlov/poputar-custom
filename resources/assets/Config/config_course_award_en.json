@@ -1,0 +1,319 @@
+{
+	"phaseData":
+	[
+		{
+		    "progress": 0,
+		    "section": 0,
+		    "course": 0,
+		    "musiclib": [
+		        {
+		            "id": "0ceeaacfe36e49b2ab77a60bb110ecbc",
+		            "bookname": "空弦之歌"
+		        }
+		    ],
+		    "knowledgepoint": [
+		        {
+		            "id": "",
+		            "title": "Right Hand Technique",
+		            "content": "Thumb plays the three bass strings (4-6, D, A, E).Index finger plays the third String (G).Middle finger plays the second string (B).Ring finger plays the first string (E)."
+		        }
+		    ]
+		},
+		{
+		    "progress": 0,
+		    "section": 1,
+		    "course": 3,
+		    "musiclib": [
+		    	{
+		            "id": "431fc27a093143d9b510d99995ad7fae",
+		            "bookname": "天空之城"
+		        },
+		        {
+		            "id": "ae428dac54774f14b1d269944d473092",
+		            "bookname": "烟花易冷"
+		        }
+		    ],
+		    "knowledgepoint": [
+		        {
+		            "id": "",
+		            "title": "Left Hand Technique",
+		            "content": "Place your fingertips at the fret with appropriate pressure, not too hard or too lightly. To help make it easy, keep the fingers close to the frets and up on the fingertips. Long finger nails may cause playing difficulties and bad sound."
+		        }
+		    ]
+		},
+		{
+		    "progress": 0,
+		    "section": 2,
+		    "course": 3,
+		    "musiclib": [
+		    	{
+		            "id": "68bfb81ec99b4e15abad1e72204b8790",
+		            "bookname": "You are my sunshine"
+		        }
+		    ],
+		    "knowledgepoint": [
+		        {
+		            "id": "",
+		            "title": "一级和弦",
+		            "content": "以“DO”为根音的和弦。可以给人结束的感觉，并不是说不能放在乐句中间。是“大调王国”的国王."
+		        },
+		        {
+		            "id": "",
+		            "title": "四级和弦",
+		            "content": "以“FA”为根音的和弦，以她开始的乐句会进入新的气氛。“大调王国”的王后。"
+		        },
+		        {
+		            "id": "",
+		            "title": "五级和弦",
+		            "content": "以”SOL“为根音的和弦，放在一级和弦前有圆满结束的感觉。“大调王国”的宰相."
+		        }
+		    ]
+		},
+		{
+		    "progress": 0,
+		    "section": 3,
+		    "course": 3,
+		    "musiclib": [
+		    	{
+		            "id": "8708bce323184fb2b8b739dcd5f66885",
+		            "bookname": "Mapps"
+		        }
+		    ],
+		    "knowledgepoint": [
+		        {
+		            "id": "",
+		            "title": "和弦根音",
+		            "content": "和弦的最低音，不论一个和弦有多么花哨的名字，根音决定了它的身份和地位。"
+		        },
+		        {
+		            "id": "",
+		            "title": "六级和弦",
+		            "content": "以“LA”为根音的和弦，以他开始的乐句会进入紧张忧郁的气氛。“大调王国”的忧郁小王子。"
+		        }
+		    ]
+		},
+		{
+		    "progress": 0,
+		    "section": 6,
+		    "course": 3,
+		    "musiclib": [
+		    	{
+		            "id": "f40e0cab9a9b47c189457cca9a11d36d",
+		            "bookname": "Bad girl"
+		        }
+		    ],
+		    "knowledgepoint": [
+		        {
+		            "id": "",
+		            "title": "和弦循环",
+		            "content": "仅四个和弦按顺序不断重复，歌曲还能层层递进，是一件很神奇的事情。"
+		        }
+		    ]
+		},
+		{
+		    "progress": 0,
+		    "section": 8,
+		    "course": 3,
+		    "musiclib": [
+		    	{
+		            "id": "129da2b84d904085bf888250107b1e90",
+		            "bookname": "野子"
+		        }
+		    ],
+		    "knowledgepoint": [
+		        {
+		            "id": "",
+		            "title": "三级和弦",
+		            "content": "以“MI”为根音的和弦，偶尔会取代一级或五级和弦。“大调王国”的王储。"
+		        }
+		    ]
+		},
+		{
+		    "progress": 0,
+		    "section": 10,
+		    "course": 3,
+		    "musiclib": [
+		    	{
+		            "id": "f002a91b31e24218a098f15319b41caa",
+		            "bookname": "ALWAYS WITH ME"
+		        }
+		    ],
+		    "knowledgepoint": [
+		        {
+		            "id": "",
+		            "title": "二级和弦",
+		            "content": "以”RE“为根音的和弦，忧郁版的小王后。“大调王国”最小的公主。"
+		        }
+		    ]
+		},
+		{
+		    "progress": 1,
+		    "section": 0,
+		    "course": 3,
+		    "musiclib": [
+		    ],
+		    "knowledgepoint": [
+		        {
+		            "id": "",
+		            "title": "和弦是什么",
+		            "content": "把频率呈倍数关系的一些音组合起来，这些音听起来很和谐，所以叫做和弦。"
+		        },
+		        {
+		            "id": "",
+		            "title": "C和弦",
+		            "content": "以“C”为根音的和弦。可以给人结束的感觉，并不是说不能放在乐句中间。是“C大调王国”的国王."
+		        },
+		        {
+		            "id": "",
+		            "title": "Am和弦",
+		            "content": "以“A”为根音的小和弦，以他开始的乐句会进入紧张忧郁的气氛。“C大调王国”的忧郁小王子。"
+		        }
+		    ]
+		},
+		{
+		    "progress": 1,
+		    "section": 1,
+		    "course": 3,
+		    "musiclib": [
+		    	{
+		            "id": "7ec11f0a82a143559ef75a241919436d",
+		            "bookname": "宝贝"
+		        }
+		    ],
+		    "knowledgepoint": [
+		        {
+		            "id": "",
+		            "title": "F和弦",
+		            "content": "以“F”为根音的和弦，以她开始的乐句会进入新的气氛。“C大调王国”的王后。"
+		        },
+		        {
+		            "id": "",
+		            "title": "G和弦",
+		            "content": "以“G”为根音的和弦，放在一级和弦前有圆满结束的感觉。“C大调王国”的宰相."
+		        }
+		    ]
+		},
+		{
+		    "progress": 1,
+		    "section": 3,
+		    "course": 3,
+		    "musiclib": [
+		    	{
+		            "id": "7aff0e85dc104750bbe682d0cbda893a",
+		            "bookname": "红玫瑰"
+		        },
+		        {
+		            "id": "7436b7f01cb54667bb23e2adbc28eb87",
+		            "bookname": "下个路口见"
+		        }
+		    ],
+		    "knowledgepoint": [
+		        {
+		            "id": "",
+		            "title": "Em和弦",
+		            "content": "以“E”为根音的小和弦，偶尔会取代一级或五级和弦。“大调王国”的王储。"
+		        },
+		        {
+		            "id": "",
+		            "title": "Dm和弦",
+		            "content": "以“D”为根音的小和弦，忧郁版的小王后。“大调王国”最小的公主。"
+		        }
+		    ]
+		},
+		{
+		    "progress": 1,
+		    "section": 5,
+		    "course": 3,
+		    "musiclib": [
+		    	{
+		            "id": "a8674ed52c4147aa93eea0f76ade15d6",
+		            "bookname": "LIKE THE WAY YOU LIE"
+		        }
+		    ],
+		    "knowledgepoint": [
+		        {
+		            "id": "",
+		            "title": "激情风格循环",
+		            "content": "由Am-F-C-G组成，写战斗风格的乐曲的话，先用这个循环试试。"
+		        }
+		    ]
+		},
+		{
+		    "progress": 1,
+		    "section": 7,
+		    "course": 3,
+		    "musiclib": [
+		    	{
+		            "id": "9f93844d1a704a69944694f048df3229",
+		            "bookname": "真的爱你"
+		        },
+		        {
+		            "id": "ab62d0f7fb1842279351b738208f311d",
+		            "bookname": "Katsu"
+		        }
+		    ],
+		    "knowledgepoint": [
+		        {
+		            "id": "",
+		            "title": "流行风格循环",
+		            "content": "由C-G-Am-F组成，听起来轻快的循环，可以用来写一些琅琅上口的流行歌。"
+		        }
+		    ]
+		},
+		{
+		    "progress": 1,
+		    "section": 9,
+		    "course": 3,
+		    "musiclib": [
+		    ],
+		    "knowledgepoint": [
+		        {
+		            "id": "",
+		            "title": "和弦的走向",
+		            "content": "就是和弦连接的顺序，其实循环也算是有规律的走向。"
+		        }
+		    ]
+		},
+		{
+		    "progress": 1,
+		    "section": 11,
+		    "course": 3,
+		    "musiclib": [
+		    ],
+		    "knowledgepoint": [
+		        {
+		            "id": "",
+		            "title": "变调夹",
+		            "content": "让你用原来的指法弹奏不同的调，弹奏的时候，把夹变调夹的地方当成是琴头就好了。"
+		        }
+		    ]
+		},
+		{
+		    "progress": 2,
+		    "section": 0,
+		    "course": 3,
+		    "musiclib": [
+		    	{
+		            "id": "825548837a0b4542bc3781d8a06b55cb",
+		            "bookname": "蒲公英的约定"
+		        },
+		        {
+		            "id": "11b9e73c4fde4040a9a1c80e2872811f",
+		            "bookname": "THE LAZY SONG"
+		        }
+		    ]
+		},
+		{
+		    "progress": 2,
+		    "section": 4,
+		    "course": 3,
+		    "musiclib": [
+		    	{
+		            "id": "fc61a6def01c4d09964b064b59e7245d",
+		            "bookname": "怒放的生命"
+		        }
+		    ]
+		}
+
+	]
+}

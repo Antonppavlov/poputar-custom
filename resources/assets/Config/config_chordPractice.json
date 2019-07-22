@@ -1,0 +1,94 @@
+{
+    "chordPractice": [
+        {
+            "index": 1,
+            "course": "1-4",
+            "contents": [
+                {
+                    "content": [
+                        "C",
+                        "Am"
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "course": "2-4",
+            "contents": [
+                {
+                    "content": [
+                        "C",
+                        "Am",
+                        "F",
+                        "G"
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "course": "4-4",
+            "contents": [
+                {
+                    "content": [
+                        "C",
+                        "Am",
+                        "F",
+                        "G",
+                        "Dm",
+                        "Em"
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "course": "12-1",
+            "contents": [
+                {
+                    "content": [
+                        "C",
+                        "Am",
+                        "G",
+                        "D",
+                        "Em"
+                    ]
+                },{
+                    "content": [
+                        "C",
+                        "Am",
+                        "F",
+                        "G",
+                        "Dm",
+                        "Em"
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "course": "17-4",
+            "contents": [
+                {
+                    "content": [
+                        "C",
+                        "Am",
+                        "G",
+                        "D",
+                        "Em"
+                    ]
+                },{
+                    "content": [
+                        "C",
+                        "Am",
+                        "F",
+                        "G",
+                        "Dm",
+                        "Em"
+                    ]
+                }
+            ]
+        }
+    ]
+}

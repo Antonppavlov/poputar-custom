@@ -1,0 +1,5 @@
+[
+	{"dimenson":"style","title":"风格","items":[{"title":"codeStr173","key":"流行"},{"title":"codeStr174","key":"民谣"},{"title":"codeStr175","key":"爵士"},{"title":"codeStr176","key":"摇滚"}]},
+	{"dimenson":"chorddirection","title":"和弦走向","items":[{"title":"1645","key":"1645"},{"title":"1564","key":"1564"},{"title":"6415","key":"6415"},{"title":"4536...","key":"4536"},{"title":"1563...","key":"1563"}]},
+	{"dimenson":"suggestprogress","title":"推荐难度","items":[{"title":"codeStr177","key":"1"},{"title":"codeStr178","key":"2"},{"title":"codeStr179","key":"3"}]}
+]
